@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Finance Nerd</title>
+    <link>https://financenerd.ca/blog</link>
+    <description>No-nonsense Canadian personal finance. New posts every Wednesday.</description>
+    <language>en-ca</language>
+    <lastBuildDate>Wed, 06 May 2026 11:12:19 GMT</lastBuildDate>
+    <atom:link href="https://financenerd.ca/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Options Trading for Beginners: The Complete Guide to Calls, Puts, and the Greeks</title>
+      <link>https://financenerd.ca/blog/options-trading-basics-canada</link>
+      <guid isPermaLink="true">https://financenerd.ca/blog/options-trading-basics-canada</guid>
+      <description>A plain-language guide to stock options in Canada. Learn what calls and puts are, how ITM/OTM/ATM work, and what the Greeks (Delta, Gamma, Theta, Vega) actually mean with real dollar examples.</description>
+      <pubDate>Wed, 29 Apr 2026 12:00:00 GMT</pubDate>
+      <category>Investing</category>
+    </item>
+    <item>
+      <title>RRSP, TFSA, FHSA and More: Every Registered Account in Canada Explained</title>
+      <link>https://financenerd.ca/blog/registered-accounts-canada-guide</link>
+      <guid isPermaLink="true">https://financenerd.ca/blog/registered-accounts-canada-guide</guid>
+      <description>A plain-English guide to Canada&apos;s five major registered accounts: RRSP, TFSA, FHSA, RESP, and RDSP. Learn what each does, who qualifies, the 2026 limits, and which one to open first.</description>
+      <pubDate>Wed, 22 Apr 2026 12:00:00 GMT</pubDate>
+      <category>Tax &amp; Accounts</category>
+    </item>
+    <item>
+      <title>RRSP and RRIF in Canada: The Complete Guide to Retirement Savings</title>
+      <link>https://financenerd.ca/blog/rrsp-rrif-canada</link>
+      <guid isPermaLink="true">https://financenerd.ca/blog/rrsp-rrif-canada</guid>
+      <description>Everything you need to know about RRSPs and RRIFs in Canada: how contribution room works, the Home Buyers&apos; Plan, spousal RRSP, RRIF minimum withdrawals, and when to choose RRSP over TFSA.</description>
+      <pubDate>Wed, 22 Apr 2026 12:00:00 GMT</pubDate>
+      <category>Tax &amp; Accounts</category>
+    </item>
+    <item>
+      <title>TFSA in Canada: The Complete Guide to Tax-Free Savings</title>
+      <link>https://financenerd.ca/blog/tfsa-canada</link>
+      <guid isPermaLink="true">https://financenerd.ca/blog/tfsa-canada</guid>
+      <description>Everything about the Tax-Free Savings Account: how contribution room works, what you can hold, when TFSA beats RRSP, rules for newcomers and non-residents, and the most common costly mistakes.</description>
+      <pubDate>Wed, 22 Apr 2026 12:00:00 GMT</pubDate>
+      <category>Tax &amp; Accounts</category>
+    </item>
+    <item>
+      <title>FHSA in Canada: The First Home Savings Account Explained</title>
+      <link>https://financenerd.ca/blog/fhsa-canada</link>
+      <guid isPermaLink="true">https://financenerd.ca/blog/fhsa-canada</guid>
+      <description>A complete guide to the First Home Savings Account: how it combines RRSP and TFSA benefits, the $8,000 annual limit, carry-forward rules, combining with the Home Buyers&apos; Plan, and what happens if you never buy a home.</description>
+      <pubDate>Wed, 22 Apr 2026 12:00:00 GMT</pubDate>
+      <category>Tax &amp; Accounts</category>
+    </item>
+    <item>
+      <title>RESP in Canada: The Complete Guide to Education Savings</title>
+      <link>https://financenerd.ca/blog/resp-canada</link>
+      <guid isPermaLink="true">https://financenerd.ca/blog/resp-canada</guid>
+      <description>Everything about the Registered Education Savings Plan: the Canada Education Savings Grant, the Canada Learning Bond, provincial grants, what happens if your child doesn&apos;t pursue post-secondary education, and how newcomers can access these benefits.</description>
+      <pubDate>Wed, 22 Apr 2026 12:00:00 GMT</pubDate>
+      <category>Tax &amp; Accounts</category>
+    </item>
+    <item>
+      <title>RDSP in Canada: The Complete Guide to the Registered Disability Savings Plan</title>
+      <link>https://financenerd.ca/blog/rdsp-canada</link>
+      <guid isPermaLink="true">https://financenerd.ca/blog/rdsp-canada</guid>
+      <description>A detailed guide to the Registered Disability Savings Plan: how the Canada Disability Savings Grant and Bond work, the 10-year holdback rule, RRSP rollovers, and how to maximize government contributions for a family member with a disability.</description>
+      <pubDate>Wed, 22 Apr 2026 12:00:00 GMT</pubDate>
+      <category>Tax &amp; Accounts</category>
+    </item>
+    <item>
+      <title>The True Cost of Car Ownership in Canada: Is Your Car Keeping You Poor?</title>
+      <link>https://financenerd.ca/blog/true-cost-of-car-ownership-canada</link>
+      <guid isPermaLink="true">https://financenerd.ca/blog/true-cost-of-car-ownership-canada</guid>
+      <description>A deep dive into the real cost of owning a car in Canada, including Uber vs car ownership break-even math, an interactive calculator to compare new vs used, affordability checks, and data-backed guidance on when to buy, lease, or walk away.</description>
+      <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
+      <category>Budgeting</category>
+    </item>
+    <item>
+      <title>Fixed vs. Variable Mortgage Rates in Canada: 25 Years of Data</title>
+      <link>https://financenerd.ca/blog/fixed-vs-variable-mortgage-rates-canada</link>
+      <guid isPermaLink="true">https://financenerd.ca/blog/fixed-vs-variable-mortgage-rates-canada</guid>
+      <description>We pulled 25 years of Bank of Canada overnight rate data to settle the fixed vs. variable debate. The answer isn&apos;t what most people think.</description>
+      <pubDate>Wed, 08 Apr 2026 12:00:00 GMT</pubDate>
+      <category>Mortgages</category>
+    </item>
+  </channel>
+</rss>

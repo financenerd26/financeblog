@@ -1,0 +1,10 @@
+User-Agent: *
+Allow: /
+Disallow: /dashboard
+Disallow: /mortgage
+Disallow: /heloc
+Disallow: /investments
+Disallow: /tax
+Disallow: /setup
+
+Sitemap: https://financenerd.ca/sitemap.xml
